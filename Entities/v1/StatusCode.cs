@@ -1,4 +1,4 @@
-﻿namespace Swagger.Entities;
+﻿namespace Swagger.Entities.v1;
 
 /// <summary>
 /// Class to define an ActionResult type in SwaggerController
